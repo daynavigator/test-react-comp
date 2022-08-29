@@ -1,7 +1,7 @@
 {
   "name": "@daynavigator/test-react-comp",
   "version": "1.0.0",
-  "description": " card",
+  "description": " cards",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
