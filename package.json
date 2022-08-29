@@ -1,0 +1,20 @@
+{
+  "name": "@katiyar-rahul/test-react-comp",
+  "version": "1.0.0",
+  "description": " card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": "https://github.com/katiyar-rahul/test-react-comp.git",
+  "keywords": [],
+  "author": "rahul katiyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katiyar-rahul/test-react-comp/issues"
+  },
+  "homepage": "https://github.com/katiyar-rahul/test-react-comp#readme"
+}
