@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/@katiyar-rahul"
   },
   "repository": "https://github.com/katiyar-rahul/test-react-comp.git",
   "keywords": [],
